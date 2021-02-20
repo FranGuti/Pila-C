@@ -15,6 +15,9 @@ Tiene como objetivo la creación del mismo para su posterior uso como librería 
  - Pila Ver Tope
    > Devuelve el elemento que se encuentra en el tope de la Pila
  
+ - Apilar
+   > Pone en el tope de la Pila el elemento pasado por parámetro
+ 
  - Desapilar
    > Elimina y devuelve el elemento del tope de la Pila
   
